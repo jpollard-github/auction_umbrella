@@ -1,4 +1,3 @@
-# AuctionUmbrella
+# Auction Umbrella
 
-**TODO: Add description**
-
+Sample app for learning Elixir Phoenix framework from book "Phoenix in Action".
